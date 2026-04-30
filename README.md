@@ -1,7 +1,6 @@
-# DevOps CI/CD Final Project
+# ci-cd-final-project
 
 This project demonstrates CI/CD pipeline using GitHub Actions and Tekton.
-
 ## Features
 - Linting using flake8
 - Unit testing using nose
